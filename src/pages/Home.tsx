@@ -8,6 +8,7 @@ export default function Home() {
         {count}
         <button onClick={countIncrease}>+</button>
         <button onClick={countDecrease}>-</button>
+        <img src="https://revinramadhan21.sirv.com/Images/Apel%20Music%20Image/image%203.png" width="1280" height="514" alt=""/>
     </div>
   )
 }
